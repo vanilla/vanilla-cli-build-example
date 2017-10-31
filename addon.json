@@ -1,0 +1,6 @@
+{
+    "key": "vanilla-cli-example",
+    "name": "Vanilla CLI Example",
+    "description": "An example addon to demonstrate the Vanilla Build process",
+    "buildProcessVersion": "1.0"
+}

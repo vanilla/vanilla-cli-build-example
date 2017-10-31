@@ -1,0 +1,7 @@
+@import "partial";
+
+$other-variable: $variable * 2;
+
+.selector {
+    font-size: $other-variable;
+}
