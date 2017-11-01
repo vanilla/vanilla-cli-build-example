@@ -1,0 +1,1 @@
+{"version":3,"sources":["custom.scss"],"names":[],"mappings":"AAIA,UACI,cAH0B,CAI7B","file":"custom.css","sourcesContent":["@import \"partial\";\n\n$other-variable: $variable * 2;\n\n.selector {\n    font-size: $other-variable;\n}\n"]}
